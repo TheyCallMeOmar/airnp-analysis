@@ -29,17 +29,17 @@ Replace missing values with mode<br>
 ## Scatter Plot:<br>
        signup_flow with age
 ## Heat Map:<br>
-       first_device_type with country_destination<br>
-       age with country_destination<br>
-       first_device_type with first_browser<br>
-       affiliate_channel with affiliate_provider<br>
-       signup_method with gender<br>
-       gender with country_destination<br>
+       first_device_type with country_destination
+       age with country_destination
+       first_device_type with first_browser
+       affiliate_channel with affiliate_provider
+       signup_method with gender
+       gender with country_destination
 ## Tree Map:<br>
-       gender => country_destination => language<br>
-       country_destination => gender => signup_method<br>
+       gender => country_destination => language
+       country_destination => gender => signup_method
 ## Time Series analysis:<br>
-       using Prophet library for predicting the next year (365 days )<br>
+       using Prophet library for predicting the next year (365 days )
 ## Machine learning model :<br>
         (XGBOOST)
         accuracy =87% 
