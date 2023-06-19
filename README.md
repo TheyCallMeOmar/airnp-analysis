@@ -39,7 +39,7 @@ Replace missing values with mode<br>
        gender => country_destination => language<br>
        country_destination => gender => signup_method<br>
 ## Time Series analysis:<br>
-       using Prophet library for predicting the next year (365 days ) <br>
+       using Prophet library for predicting the next year (365 days )<br>
 ## Machine learning model :<br>
         (XGBOOST)
         accuracy =87% 
