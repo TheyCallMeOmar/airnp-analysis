@@ -13,21 +13,21 @@ Replace missing values with mode<br>
     overlay histogarm: ( timestamp_first_active , date_account_created and date_first_booking )
     Correlation matrix(how features are alike or similar to each other) 
 ## Visualizations:<br>
-    Pie Charts:<br>
-      signup_app pie chart<br>
-      gender pie chart<br>
-      signup_method pie chart<br>
-      first_affiliate_tracked pie chart<br>
+    Pie Charts:
+      signup_app pie chart
+      gender pie chart
+      signup_method pie chart
+      first_affiliate_tracked pie chart
 ## Bar Plot:<br>
-      first_browser bar plot<br>
-      Most signup_flow: the page a user came to signup up from<br>
-      Top Booked Countries over years<br>
-      language bar plot<br>
-      almost all users language is English<br>
-      first_device_type bar plot<br>
-      country_destination bar plot<br>
+      first_browser bar plot
+      Most signup_flow: the page a user came to signup up from
+      Top Booked Countries over years
+      language bar plot
+      almost all users language is English
+      first_device_type bar plot
+      country_destination bar plot
 ## Scatter Plot:<br>
-       signup_flow with age<br>
+       signup_flow with age
 ## Heat Map:<br>
        first_device_type with country_destination<br>
        age with country_destination<br>
