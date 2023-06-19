@@ -10,7 +10,7 @@ solution of inaccurate values in age:<br>
 Generate new columns<br>
 Replace missing values with mode<br>
 ## Correlation:<br>
-    overlay histogarm: ( timestamp_first_active , date_account_created and date_first_booking )<br>
+    overlay histogarm: ( timestamp_first_active , date_account_created and date_first_booking )
     Correlation matrix(how features are alike or similar to each other)  <br>
 ## Visualizations:<br>
     Pie Charts:<br>
